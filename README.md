@@ -25,6 +25,8 @@ AmpMyFitness is a fitness app that provides the user with workout classes via Yo
 
 6. If the "Videos" tab is selected you will be routed to the videos page which provides the user with 5 custom YouTube playlists associated with different workout categories.
 
+## Exercise Demo Functionality
+
 ![](https://media.giphy.com/media/vu6uqtZFIEfWgO188H/giphy.gif)
 
 ## Credits
