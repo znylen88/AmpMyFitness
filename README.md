@@ -33,7 +33,7 @@ Evelyn Carone (GitHub: evcarone) - Passport JS, Mongo DB, Powerpoint, JSX Pages
 
 Sina Farheidar-Smith (GitHub: sinafarheidar) - YouTube API, Input Javascript Calculations, App Components, Styling, JSX Pages 
 
-Zach Nylen (GitHub: znylen88) - Custom Exercise API, ReadME, Styling, App Components, Exercises JSX Page
+Zach Nylen (GitHub: znylen88) - Custom Exercise API, ReadME, Styling, App Components, Exercises JSX Page, redesign of website and new database deployment (Jan 2021)
 
 ## 3rd Party APIs
 
