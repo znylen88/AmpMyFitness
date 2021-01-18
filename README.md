@@ -51,15 +51,7 @@ https://ampmyfitness.herokuapp.com
 
 ## App Home Page:
 
- ![App Function]()
- 
- ## Exercises Page:
- 
- ![App Function]()
- 
-  ## Videos Page:
- 
- ![App Function]()
+ ![App Function](https://github.com/znylen88/AmpMyFitness/blob/master/AuthorizedHome.png)
  
  # MongoDB Atlas on Heroku:
  https://developer.mongodb.com/how-to/use-atlas-on-heroku
