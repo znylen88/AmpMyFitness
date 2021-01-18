@@ -4,7 +4,7 @@ AmpMyFitness is a fitness app that provides the user with workout classes via Yo
 
 ## App Login Page:
 
-![App Function]()
+![App Function](https://github.com/znylen88/AmpMyFitness/blob/master/HomePage.png)
 
 ## Application Requirements
 
