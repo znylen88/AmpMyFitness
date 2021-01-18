@@ -13,7 +13,7 @@ AmpMyFitness is a fitness app that provides the user with workout classes via Yo
 * Must use a CSS framework _other than_ Bootstrap
 
 ## Usage
-1. Navigate to https://hidden-caverns-01936.herokuapp.com/.
+1. Navigate to https://ampmyfitness.herokuapp.com.
 
 2. Fill out the singup form or login if you already have an account.
 
@@ -47,7 +47,7 @@ Zach Nylen (GitHub: znylen88) - Custom Exercise API, ReadME, Styling, App Compon
 
 ## Deployed App
 
-https://hidden-caverns-01936.herokuapp.com/
+https://ampmyfitness.herokuapp.com
 
 ## App Home Page:
 
