@@ -16,9 +16,9 @@ if (process.env.NODE_ENV === "production") {
 
 // connect to the database and load models
 // uses environmental variable for deployment (Heroku) or defaults to local config
-const uri = process.env.MONGODB_URI || config.dbUri;
-
-mongoose.connect(uri);
+//const uri = process.env.MONGODB_URI || config.dbUri;
+mongoose.connect('mongodb+srv://znylen:eMW4DNLrf7KuOxfE@ampmyfitness.ll1mo.mongodb.net/', {dbName: 'userDB'});
+// mongoose.connect(uri);
 // plug in the promise library:
 mongoose.Promise = global.Promise;
 
